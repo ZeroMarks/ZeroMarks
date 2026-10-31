@@ -1,16 +1,33 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://zeromarks.net"><img src="zeromarks-hero.png" alt="ZeroMarks" width="100%"></a>
+</p>
 
-<!--
-**ZEROMARKSLLC/ZEROMARKSLLC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Software that minds its own business.</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  ZeroMarks is a privacy-first software studio. We build tools that keep your data on your side —
+  no accounts you don't need, no telemetry, nothing sold.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://zeromarks.net">zeromarks.net</a> ·
+  <a href="https://zeromarks.net/services/">Work with us</a> ·
+  <a href="https://zeromarks.net/security/">Security</a>
+</p>
+
+---
+
+### What's public
+
+| Project | What it is |
+|---|---|
+| [**BUNKER 2.0**](https://github.com/ZEROMARKSLLC/BUNKER2.0) | An offline password vault that lives on your machine and nowhere else. AES-256 with Argon2, no sync servers, no account. |
+| [**OpenClaw Launcher**](https://github.com/ZEROMARKSLLC/openclaw-launcher-replacement) | A Windows control console that starts OpenClaw sessions on demand instead of at boot. |
+
+### In the studio
+
+**VinCard** — inventory intelligence, pricing and lead scoring for auto dealers. Private while in development; [read more](https://zeromarks.net/vincard/).
+
+### Security
+
+Found something? See [zeromarks.net/security](https://zeromarks.net/security/) for how to report it, and how to tell it's really us.
