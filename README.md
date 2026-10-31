@@ -21,8 +21,8 @@
 
 | Project | What it is |
 |---|---|
-| [**BUNKER 2.0**](https://github.com/ZEROMARKSLLC/BUNKER2.0) | An offline password vault that lives on your machine and nowhere else. AES-256 with Argon2, no sync servers, no account. |
-| [**OpenClaw Launcher**](https://github.com/ZEROMARKSLLC/openclaw-launcher-replacement) | A Windows control console that starts OpenClaw sessions on demand instead of at boot. |
+| [**BUNKER 2.0**](https://github.com/ZeroMarks/BUNKER2.0) | An offline password vault that lives on your machine and nowhere else. AES-256 with Argon2, no sync servers, no account. |
+| [**OpenClaw Launcher**](https://github.com/ZeroMarks/openclaw-launcher-replacement) | A Windows control console that starts OpenClaw sessions on demand instead of at boot. |
 
 ### In the studio
 
