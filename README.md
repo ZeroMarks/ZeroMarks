@@ -6,10 +6,10 @@
 </a>
 
 <p align="center">
-  <a href="https://zeromarks.net"><picture><source media="(prefers-color-scheme: light)" srcset="assets/pill-site-light.svg"><img alt="zeromarks.net" src="assets/pill-site-dark.svg" height="40"></picture></a>
-  <a href="https://zeromarks.net/services/"><picture><source media="(prefers-color-scheme: light)" srcset="assets/pill-work-light.svg"><img alt="Work with us" src="assets/pill-work-dark.svg" height="40"></picture></a>
-  <a href="https://zeromarks.net/security/"><picture><source media="(prefers-color-scheme: light)" srcset="assets/pill-security-light.svg"><img alt="Security" src="assets/pill-security-dark.svg" height="40"></picture></a>
-  <a href="mailto:hello@zeromarks.net"><picture><source media="(prefers-color-scheme: light)" srcset="assets/pill-mail-light.svg"><img alt="hello@zeromarks.net" src="assets/pill-mail-dark.svg" height="40"></picture></a>
+  <a href="https://zeromarks.net"><picture><source media="(prefers-color-scheme: light)" srcset="assets/pill-site-light.svg"><img alt="zeromarks.net" src="assets/pill-site-dark.svg" height="34"></picture></a>
+  <a href="https://zeromarks.net/services/"><picture><source media="(prefers-color-scheme: light)" srcset="assets/pill-work-light.svg"><img alt="Work with us" src="assets/pill-work-dark.svg" height="34"></picture></a>
+  <a href="https://zeromarks.net/security/"><picture><source media="(prefers-color-scheme: light)" srcset="assets/pill-security-light.svg"><img alt="Security" src="assets/pill-security-dark.svg" height="34"></picture></a>
+  <a href="mailto:hello@zeromarks.net"><picture><source media="(prefers-color-scheme: light)" srcset="assets/pill-mail-light.svg"><img alt="hello@zeromarks.net" src="assets/pill-mail-dark.svg" height="34"></picture></a>
 </p>
 
 <br>
