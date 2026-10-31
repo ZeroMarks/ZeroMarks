@@ -16,6 +16,8 @@
   <a href="https://zeromarks.net/services/">Work with us</a>
   &nbsp;·&nbsp;
   <a href="https://zeromarks.net/security/">Security</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:hello@zeromarks.net">hello@zeromarks.net</a>
 </p>
 
 <br>
