@@ -57,5 +57,5 @@ Found a security issue? Please don't open a public issue — see [zeromarks.net/
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
-  <img alt="Nothing left to read. Nothing left behind. — zeromarks.net" src="assets/footer-dark.svg" width="100%">
+  <img alt="ZeroMarks — privacy-first software. zeromarks.net" src="assets/footer-dark.svg" width="100%">
 </picture>
