@@ -1,0 +1,20 @@
+# ZeroMarks Dependabot standard v1.0 (2026-11-20 PT) - GitHub Actions
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"                 # "/" covers .github/workflows and action.yml at the root
+    schedule:
+      interval: "monthly"
+      time: "09:00"
+      timezone: "America/Los_Angeles"
+    cooldown:
+      default-days: 3              # the GitHub default, written out so nobody has to look it up
+    open-pull-requests-limit: 5
+    commit-message:
+      prefix: "deps(actions)"
+    groups:
+      actions:                     # every action update, any size, in one PR a month
+        patterns: ["*"]
+      actions-security:            # security fixes arrive at once, as one PR
+        applies-to: security-updates
+        patterns: ["*"]
